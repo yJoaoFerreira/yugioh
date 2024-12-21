@@ -2,13 +2,15 @@
 
 Jogo de jokenpo que criei para explicar conceitos de lógica de programação aplicados a jogos
 
-conceitos abordados:
+## conceitos abordados:
 
 - Armazenamento e gerenciamento de estado manual
 - Funções limpas
 - Organização de código
 
-Tecnologias Utilizadas:
+## Tecnologias Utilizadas:
 - HTML
 - CSS
 - JavaScript
+
+## Deploy:
