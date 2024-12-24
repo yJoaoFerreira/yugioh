@@ -14,3 +14,5 @@ Jogo de jokenpo que criei para explicar conceitos de lógica de programação ap
 - JavaScript
 
 ## Deploy:
+
+N/A
