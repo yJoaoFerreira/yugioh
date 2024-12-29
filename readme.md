@@ -15,4 +15,4 @@ Jogo de jokenpo que criei para explicar conceitos de lógica de programação ap
 
 ## Deploy:
 
-N/A
+Link: N/A
